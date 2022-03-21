@@ -4,7 +4,6 @@
 ```
 module "vpc" {
   source  = "AleksaSka/vpc/aws"
-}"
 }
 
 ```
